@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, React, Python, JavaScrip**
 
-- 📫 How to reach me **jennifercalder@gmail.com**
+- 📫 How to reach me **jenncalde1588@gmail.com**
 
 - 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
 
