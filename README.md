@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **HTML, CSS, React, Python, JavaScrip**
 
-- 📫 How to reach me **jenncalde1588@gmail.com**
+- 📩 How to reach me **jenncalde1588@gmail.com**
 
-- 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
+- 📌 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
 
 - 🖌️ Fun fact **I love to paint**
 
