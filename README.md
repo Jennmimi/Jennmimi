@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jennifer Calderon Hernandez</h1>
+<h1 align="center">Hi 👋, I'm Jennifer Calderon Hernandez ⭐</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
-- 🔭 I’m currently working on [ASAD-APP](https://github.com/4GeeksAcademy/Proyecto-Final-asad-app)
+- 💻 I’m currently working on [ASAD-APP](https://github.com/4GeeksAcademy/Proyecto-Final-asad-app)
 
 - 💬 Ask me about **HTML, CSS, React, Python, JavaScrip**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
 
-- ⚡ Fun fact **I love to paint**
+- 🖌️ Fun fact **I love to paint**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
